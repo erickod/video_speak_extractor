@@ -1,0 +1,12 @@
+[run]
+omit = 
+    */tests/*
+    */protocols/*
+    *abc.py
+
+
+[report]
+omit = 
+    */tests/*
+    */protocols/*
+    *abc.py

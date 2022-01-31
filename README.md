@@ -10,6 +10,8 @@ This was made to help me learning foreign languages using videos. That way, this
 4. Execute `poetry build` inside the same directory said above.
 5. Inside the .whl file with pip, that it is inside the dist directory.
 
+This will expose a video2phrases command with below options:
+
 ```
 Usage: main.py [OPTIONS]
 

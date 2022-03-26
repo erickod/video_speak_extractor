@@ -8,7 +8,7 @@ This was made to help me learning foreign languages using videos. That way, this
 2. Make sure you have poetry installed;
 3. Execute `poetry install` inside the directory that contains `pyproject.toml` file.
 4. Execute `poetry build` inside the same directory said above.
-5. In the the dist directory, install the .whl file with pip.
+5. In the dist directory, install the .whl file with pip.
 
 This will expose a `video2phrases` command with below options:
 
